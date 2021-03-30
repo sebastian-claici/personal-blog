@@ -8,10 +8,6 @@ image:
   caption: "Albrecht Dürer, Melencolia I"
 ---
 
-<style type="text/css" rel="stylesheet">
-figure > img { height: 400px; }
-</style>
-
 We rely on factual information to guide our lives, but we can only retrieve this information by probing into our memory.
 Memory is tinged with loss of detail. I am sitting now on my porch writing while a runner passes in front of my eyes.
 Already I have made an image of myriad events. My subconscious may have witnessed every vibration of motion in front of
@@ -84,6 +80,9 @@ I leave you with this quote from Wordsworth that I hope will never ring hollow i
 I limit myself to five items. In truth, ten or twenty would have suited better, but the exercise already feels like
 walking through a deciduous forest in late autumn.
 
+<style type="text/css" rel="stylesheet">
+figure > img { height: 400px; }
+</style>
 
 ### Poetry {#poetry}
 
