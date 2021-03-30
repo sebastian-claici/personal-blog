@@ -22,11 +22,11 @@ day_night = true
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "rose"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "S"
 
 ############################
 ## Basic Info
@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Personal Blog"
 
 ############################
 ## Site Features
@@ -62,7 +62,7 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -88,7 +88,7 @@ show_related = {post = true}
 ############################
 
 ## Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "sebastianclaici@gmail.com"
 #phone = "888 888 88 88"
 #
 ## Address

@@ -9,6 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "About"
-  url = "about/"
+  name = "Posts"
+  url = "post/"
   weight = 20

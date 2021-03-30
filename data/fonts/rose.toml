@@ -1,0 +1,12 @@
+# Font style metadata
+name = "rose"
+
+# Optional Google font URL
+
+google_fonts = "family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap"
+
+# Font families
+heading_font = "Lora"
+body_font = "Lora"
+nav_font = "Lora"
+mono_font = "Lora"
