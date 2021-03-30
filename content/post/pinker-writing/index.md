@@ -16,7 +16,7 @@ For a more measured response, see this [YouTube video](https://www.youtube.com/w
 >
 > &mdash;**Herbert Marcuse,** One-Dimensional Man
 
-# The Argument
+## The Argument
 
 Academics are bad at writing. There are exceptions, but those exceptions are rare. Why?
 
