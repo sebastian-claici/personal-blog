@@ -1,8 +1,7 @@
 ---
 title: "Meeting on Death Mountain"
 date: 2020-06-11T00:00:00-04:00
-categories: ["Essays"]
-tags: ["Poetry", "Modernism"]
+categories: ["Poetry", "Modernism"]
 draft: false
 image:
   placement: 1
@@ -11,7 +10,8 @@ image:
 ---
 
 
-<table style="border-collapse: collapse; border: none; margin-left: auto; margin-right: auto;">
+<div style="margin: auto;">
+<table style="border-collapse: collapse; border: none;">
 <tbody>
 <tr>
 <td style="border:none"><img src="/ox-hugo/heidegger.jpeg" alt="heidegger.jpeg" /></td>
@@ -19,6 +19,7 @@ image:
 </tr>
 </tbody>
 </table>
+</div>
 
 On July 25, 1966, Paul Celan visits Martin Heidegger at his secluded hut in the
 middle of the Black Mountains. Heidegger, a known and unrepenting supporter of
@@ -157,7 +158,7 @@ Mallarmé
 The die smiles at the pilgrim come to wisdom, but chance is never a single
 throw.
 
-{{< figure src="/ox-hugo/hutte.jpg" caption="Figure 1: The Hütte and its well" >}}
+{{< figure src="/ox-hugo/hutte.jpg" caption="The Hütte and its well" >}}
 
 Celan enters the hut and signs the guest book. Others have done the same in the
 past. Heidegger's hut had long been a place for the thinking person's
