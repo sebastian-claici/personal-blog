@@ -105,7 +105,7 @@ If something you'd expect to be here isn't here, I either haven't read it, or I 
 
 1865, Jules Verne, *Twenty Thousand Leagues Under the Seas*  
 1937, Olaf Stapledon, *Star Maker*  
-1957, Ivan Yefremov*, Andromeda: A Space-Age Tale*   
+1957, Ivan Yefremov, *Andromeda: A Space-Age Tale*   
 1965, Frank Herbert, *Dune*  
 1981, Ted Mooney, ***Easy Travel to Other Planets***  
 1992, Kim Stanley Robinson, *Red Mars*
