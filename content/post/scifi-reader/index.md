@@ -9,7 +9,7 @@ image:
   preview_only: true
 ---
 
-This is a list of science fiction novels that can double as high literature. I included books that I thought fulfilled at least two of three requirements:
+This is a list of science fiction novels that can double as high literature.<!--more--> I included books that I thought fulfilled at least two of three requirements:
 
 - Culturally influential beyond the scope of the genre it was published in,
 - Well written,
