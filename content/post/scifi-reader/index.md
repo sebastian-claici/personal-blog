@@ -6,7 +6,6 @@ categories: ["Science Fiction", "Lists"]
 image:
   placement: 1
   caption: "Somphong Adulyasarapan, Confusing Dream"
-  preview_only: true
 ---
 
 This is a list of science fiction novels that can double as high literature.<!--more--> I included books that I thought fulfilled at least two of three requirements:
