@@ -66,7 +66,7 @@ Titles are loosely categorized, and ordered chronologically within each category
 1980, Gene Wolfe, ***The Book of the New Sun***  
 1982, Russell Hoban, *Ridley Walker*  
 1982, Katsuhiro Otomo, ***Akira***  
-1982, Hayao Miyazaki, *Nausicaä of the Valley of the Wind*
+1982, Hayao Miyazaki, *Nausicaä of the Valley of the Wind*  
 1995, Jose Saramago, *Blindness*  
 1996, David Foster Wallace, ***Infinite Jest***  
 2002, Vladimir Sorokin, *Ice Trilogy*  
