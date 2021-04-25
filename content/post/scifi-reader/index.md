@@ -8,15 +8,9 @@ image:
   caption: "Somphong Adulyasarapan, Confusing Dream"
 ---
 
-This is a list of science fiction novels that can double as high literature.<!--more--> I included books that I thought fulfilled at least two of three requirements:
+This list was spurred by a discussion with a friend that found it hard to pick out well-written science fiction. There should be 100 titles here. You may disagree with me both on literature and science fiction.
 
-- Culturally influential beyond the scope of the genre it was published in,
-- Well written,
-- Interesting in the range of its speculative ideas.
-
-All of this, including the categorization of a book as science fiction, is my opinion. Works are loosely categorized and ordered chronologically. I have bolded books that I particularly like.
-
-If something you'd expect to be here isn't here, I either haven't read it, or I don't like it enough.
+Titles are loosely categorized, and ordered chronologically within each category. Books I enjoyed more than most are bolded.
 
 ## Utopia and Dystopia
 
@@ -28,6 +22,7 @@ If something you'd expect to be here isn't here, I either haven't read it, or I 
 1932, Aldous Huxley, ***Brave New World***  
 1949, George Orwell, *1984*  
 1974, Ursula K. Le Guin, ***The Dispossessed***  
+1985, Margaret Atwood, *The Handmaid's Tale*  
 1987, Iain M. Banks, *Consider Phlebas*  
 
 ## Re-imagined Histories
@@ -35,6 +30,7 @@ If something you'd expect to be here isn't here, I either haven't read it, or I 
 1889, Mark Twain, *A Connecticut Yankee in King Arthur's Court*  
 1962, Philip K. Dick, ***The Man in the High Castle***  
 1968, Thomas M. Disch, *Camp Concentration*  
+1976, Kingsley Amis, *The Alteration*  
 1979, Octavia E. Butler, *Kindred*  
 1979, Kurt Vonnegut Jr., ***Slaughterhouse-Five***  
 1990, William Gibson and Bruce Sterling, *The Difference Engine*  
@@ -52,8 +48,6 @@ If something you'd expect to be here isn't here, I either haven't read it, or I 
 1966, Daniel Keyes, *Flowers for Algernon*  
 1968, Stanislaw Lem, ***Solaris***  
 1969, Vladimir Nabokov, ***Ada or Ardor: A Family Chronicle***  
-1973, Thomas Pynchon, ***Gravity's Rainbow***  
-1975, Samuel R. Delany, *Dhalgren*  
 1989, Dan Simmons, *Hyperion*  
 1999, Ted Chiang, ***Stories of Your Life***  
 2005, Kazuo Ishiguro, *Never Let Me Go*  
@@ -71,8 +65,10 @@ If something you'd expect to be here isn't here, I either haven't read it, or I 
 1975, Giorgio de Maria, ***The Twenty Days of Turin***  
 1980, Gene Wolfe, ***The Book of the New Sun***  
 1982, Russell Hoban, *Ridley Walker*  
+1982, Katsuhiro Otomo, ***Akira***  
 1995, Jose Saramago, *Blindness*  
-1996, David Foster Wallace, *Infinite Jest*  
+1996, David Foster Wallace, ***Infinite Jest***  
+2002, Vladimir Sorokin, *Ice Trilogy*  
 2006, Cormac McCarthy, *The Road*  
 2012, Ben Marcus, *The Flame Alphabet*
 
@@ -86,6 +82,7 @@ If something you'd expect to be here isn't here, I either haven't read it, or I 
 1965, Italo Calvino, ***Cosmicomics***  
 1967, Harlan Ellison, ***I Have No Mouth, and I Must Scream***  
 1967, Roger Zelazny, *Lord of Light*  
+1972, Angela Carter, *The Infernal Desire Machines of Doctor Hoffman*  
 1976, Don DeLillo, ***Ratner's Star***   
 1996, Ben Marcus, ***The Age of Wire and String***
 
@@ -95,10 +92,14 @@ If something you'd expect to be here isn't here, I either haven't read it, or I 
 1956, Alfred Bester, *The Stars My Destination*  
 1962, William S. Burroughs, ***Nova Trilogy (The Soft Machine, Nova Express, The Ticket that Exploded)***  
 1966, John Barth, ***Giles Goat-Boy***  
-1984, William Gibson, ***Sprawl Trilogy (Neuromancer,*  *Count Zero, Mona Lisa Overdrive)***  
+1973, Thomas Pynchon, ***Gravity's Rainbow***  
+1975, Samuel R. Delany, *Dhalgren*  
+1977, Guido Morselli, ***Dissipatio, H. G.***  
+1984, William Gibson, ***Sprawl Trilogy (Neuromancer, Count Zero, Mona Lisa Overdrive)***  
 1986, William Gibson, ***Burning Chrome***  
 1992, Neal Stephenson, *Snow Crash*  
-2004, David Mitchell, *Cloud Atlas*
+2004, David Mitchell, *Cloud Atlas*  
+2018, David R. Bunch, *Moderan*  
 
 ## The World in a Grain of Sand
 
@@ -124,13 +125,13 @@ If something you'd expect to be here isn't here, I either haven't read it, or I 
 1972, Italo Calvino, ***Invisible Cities***  
 1985, Kurt Vonnegut, *Galápagos*
 
-## Woman/Man/Human
+## Gender Blender
 
 1928, Virginia Woolf, ***Orlando***  
 1969, Ursula K. Le Guin, ***The Left Hand of Darkness***  
-1972, Angela Carter, *The Infernal Desire Machines of Doctor Hoffman*  
 1975, Joanna Russ, *The Female Man*  
-1976, Samuel Delany, ***Triton***  
-1985, Margaret Atwood, *The Handmaid's Tale*  
+1976, Samuel Delany, ***Trouble on Triton***  
+1976, Marge Piercy, ***Woman on the Edge of Time***
+1977, Angela Carter, *The Passion of New Eve*   
 1987, Octavia E. Butler, *Xenogenesis*
 
