@@ -8,7 +8,7 @@ image:
   caption: "Somphong Adulyasarapan, Confusing Dream"
 ---
 
-This list was spurred by a discussion with a friend that found it hard to pick out well-written science fiction. There should be 100 titles here. You may disagree with me both on literature and science fiction.
+I have seen this question pop-up frequently on reddit, so I made a list. This list was spurred by a discussion with a friend that found it hard to pick out well-written science fiction. There should be around 100 titles here. You may disagree with me both on literature and science fiction--genre is fluid anyway. All of this is my opinion. If something isn't here that you think should be here, then I probably haven't read it yet.
 
 Titles are loosely categorized, and ordered chronologically within each category. Books I enjoyed more than most are bolded.
 
@@ -23,7 +23,7 @@ Titles are loosely categorized, and ordered chronologically within each category
 1949, George Orwell, *1984*  
 1974, Ursula K. Le Guin, ***The Dispossessed***  
 1985, Margaret Atwood, *The Handmaid's Tale*  
-1987, Iain M. Banks, *Consider Phlebas*  
+1988, Iain M. Banks, *The Player of Games*  
 
 ## Re-imagined Histories
 
@@ -66,6 +66,7 @@ Titles are loosely categorized, and ordered chronologically within each category
 1980, Gene Wolfe, ***The Book of the New Sun***  
 1982, Russell Hoban, *Ridley Walker*  
 1982, Katsuhiro Otomo, ***Akira***  
+1982, Hayao Miyazaki, *Nausicaä of the Valley of the Wind*
 1995, Jose Saramago, *Blindness*  
 1996, David Foster Wallace, ***Infinite Jest***  
 2002, Vladimir Sorokin, *Ice Trilogy*  
@@ -84,6 +85,7 @@ Titles are loosely categorized, and ordered chronologically within each category
 1967, Roger Zelazny, *Lord of Light*  
 1972, Angela Carter, *The Infernal Desire Machines of Doctor Hoffman*  
 1976, Don DeLillo, ***Ratner's Star***   
+1987, Iain M. Banks, *Consider Phlebas*  
 1996, Ben Marcus, ***The Age of Wire and String***
 
 ## Shattered Realities
@@ -131,7 +133,6 @@ Titles are loosely categorized, and ordered chronologically within each category
 1969, Ursula K. Le Guin, ***The Left Hand of Darkness***  
 1975, Joanna Russ, *The Female Man*  
 1976, Samuel Delany, ***Trouble on Triton***  
-1976, Marge Piercy, ***Woman on the Edge of Time***
+1976, Marge Piercy, ***Woman on the Edge of Time***  
 1977, Angela Carter, *The Passion of New Eve*   
-1987, Octavia E. Butler, *Xenogenesis*
-
+1987, Octavia E. Butler, *Xenogenesis*  
