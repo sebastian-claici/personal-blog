@@ -40,12 +40,8 @@ While I think the is-ought gap cannot be bridged, there are arguments for why it
 
 I have talked about the problem of how to decide whether a person is good or bad. This seems hard. What if we restrict our scope? Can we decide if a *knife* is good or bad? Well, yes. We usually call a knife good if it is able to quickly cut through whatever it is we want to cut, and bad if we have to add elbow grease to the process. A knife is terrible if it doesn't do its job at all. A spoon is a terrible knife. In other words, a knife is *good* if it effectively fulfills its purpose to cut objects. To do this, a knife must at the very least be sharp, sturdy, and well-balanced. I can apply a similar argument to living things as well. The purpose of a tick is to latch onto a host for blood. To do this effectively, it must be able to locate a blade of grass near a well trafficked area, climb onto the blade, drop at the right moment to fall on the host, and find a spot to latch on from which it won't be removed. The better it does these things, the better it fulfills its purpose.
 
-<style type="text/css" rel="stylesheet">
-figure > img { height: 400px; }
-</style>
-
 <figure>
-<img src="/ox-hugo/tick.jpg"/>
+<img src="/ox-hugo/tick.jpg" height=400px/>
 <figcaption>The ideal moral agent.</figcaption>
 </figure>
 
@@ -59,25 +55,16 @@ Where does this leave us? If it leads anywhere, it would lead to a profound skep
 
 ## References and Further Reading
 
-Aristotle, *Nicomachean Ethics*
-
-Spinoza, B., *Ethics*
-
-Hume, D., *A Treatise of Human Nature*
-
-Kant, I., *Groundwork for the Metaphysics of Morals*
-
-Mill, J. S., *Utilitarianism*
-
-Moore, G. E. (1903), *Principia Ethica*
-
-Rand, A. (1961), *The Objectivist Ethics*
-
-Miller, A. (1965), *An Introduction to Contemporary Metaethics*
-
-Deleuze, G. (1970), *Spinoza: Practical Philosophy*
-
-Harris, S. (2010), *The Moral Landscape*
+Aristotle, *Nicomachean Ethics*    
+Spinoza, B., *Ethics*  
+Hume, D., *A Treatise of Human Nature*  
+Kant, I., *Groundwork for the Metaphysics of Morals*  
+Mill, J. S., *Utilitarianism*  
+Moore, G. E. (1903), *Principia Ethica*  
+Rand, A. (1961), *The Objectivist Ethics*  
+Miller, A. (1965), *An Introduction to Contemporary Metaethics*  
+Deleuze, G. (1970), *Spinoza: Practical Philosophy*  
+Harris, S. (2010), *The Moral Landscape*  
 
 ## Footnotes
 
