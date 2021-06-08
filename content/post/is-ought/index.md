@@ -62,7 +62,7 @@ Miller, A. (1965), *An Introduction to Contemporary Metaethics*
 
 ## References
 
-Hume, D., *A Treatise of Human Nature* 
+Hume, D., *A Treatise of Human Nature*   
 Moore, G. E. (1903), *Principia Ethica*  
 Rand, A. (1961), *The Objectivist Ethics*   
 Deleuze, G. (1970), *Spinoza: Practical Philosophy*  
