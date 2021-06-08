@@ -30,7 +30,7 @@ If we accept the gap, then we should reject any claim at a purely objective mora
 
 In this respect, the is-ought gap does not matter. That normative claims cannot be derived purely from descriptive claims just means that we have to premise at least one normative claim in whatever ethics we develop.
 
-However, the notion that morality cannot be objective sits poorly with some people who would like questions such as "How much money should I donate to charity each year?" to be rationally decidable without prior appeal to a value system. That these people exist is no problem in itself; likely the majority of people believe that morality is objective, but that we have yet to find its object. A problem arises when certain of these people opine on ethics and claim to have discovered a scientific morality without engaging in good faith with the literature. It is because such systems *agree* with the common belief that morality has to be objective, and because they often offer simple guidelines that many people now believe there is an undeniable truth about an ethics that centers around the self-interest of the individual (Rand, 1961), or the claim that all that humans can reasonably value is their well-being (Harris, 2010). 
+However, the notion that morality cannot be objective sits poorly with some people who would like questions such as "How much money should I donate to charity each year?" to be rationally decidable without prior appeal to a value system. That these people exist is no problem in itself; likely the majority of people believe that morality is objective, but that we have yet to find its object. A problem arises when certain of these people opine on ethics and claim to have discovered a scientific morality without engaging in good faith with the literature. It is because such systems *agree* with the common belief that morality has to be objective, and because they often offer simple guidelines that many people now believe there is an undeniable truth about an ethics that centers around the self-interest of the individual (Rand, 1961), or the claim that all that humans can reasonably value is their well-being[^1] (Harris, 2010). 
 
 So at least knowledge of the is-ought gap helps with spotting the demagogues, even if it bears little on the validity of an ethics.
 
@@ -39,11 +39,6 @@ So at least knowledge of the is-ought gap helps with spotting the demagogues, ev
 While I think the is-ought gap cannot be bridged, there are arguments for why it can, and we would expect this given that ethics has been around for at least as long as the written word, while Hume wrote of the gap in the 18th century.
 
 I have talked about the problem of how to decide whether a person is good or bad. This seems hard. What if we restrict our scope? Can we decide if a *knife* is good or bad? Well, yes. We usually call a knife good if it is able to quickly cut through whatever it is we want to cut, and bad if we have to add elbow grease to the process. A knife is terrible if it doesn't do its job at all. A spoon is a terrible knife. In other words, a knife is *good* if it effectively fulfills its purpose to cut objects. To do this, a knife must at the very least be sharp, sturdy, and well-balanced. I can apply a similar argument to living things as well. The purpose of a tick is to latch onto a host for blood. To do this effectively, it must be able to locate a blade of grass near a well trafficked area, climb onto the blade, drop at the right moment to fall on the host, and find a spot to latch on from which it won't be removed. The better it does these things, the better it fulfills its purpose.
-
-<figure>
-<img src="/ox-hugo/tick.jpg" height=400px/>
-<figcaption>The ideal moral agent.</figcaption>
-</figure>
 
 If we say a thing that fulfills its purpose is good, we can arrive at an ethics if we can answer what the purpose of a human being is. We have no problem answering variants of this question, such as: What is the purpose of the human being *as* a swimmer, or *as* a chef, or *as* a scientist. The question of the purpose of the human being *as* human being is trickier, but if we can figure this out, then we can derive a system of morality from it. You may say that this is just pushing the buck further down to justifying that some purpose is actually *the purpose*, and I agree, but this has no bearing on the is-ought gap. 
 
@@ -70,12 +65,4 @@ Harris, S. (2010), *The Moral Landscape*
 
 [^1]: Speaking of Harris, this is how he justifies not engaging with the literature:
 
-"Many of my critics fault me for not engaging more directly with the academic
-literature on moral philosophy. There are two reasons why I haven't done this: First,
-while I have read a fair amount of this literature, I did not arrive at my position
-on the relationship between human values and the rest of human knowledge by
-reading the work of moral philosophers; I came to it by considering the logical
-implications of our making continued progress in the sciences of mind. Second,
-I am convinced that every appearance of terms like "metaethics," "deontology,"
-"noncognitivism," "antirealism," "emotivism," etc., directly increases the amount
-of boredom in the universe."
+  "Many of my critics fault me for not engaging more directly with the academic literature on moral philosophy. There are two reasons why I haven't done this: First, while I have read a fair amount of this literature, I did not arrive at my position on the relationship between human values and the rest of human knowledge by reading the work of moral philosophers; I came to it by considering the logical implications of our making continued progress in the sciences of mind. Second, I am convinced that every appearance of terms like "metaethics," "deontology," "noncognitivism," "antirealism," "emotivism," etc., directly increases the amount of boredom in the universe."
