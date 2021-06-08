@@ -30,7 +30,7 @@ If we accept the gap, then we should reject any claim at a purely objective mora
 
 In this respect, the is-ought gap does not matter. That normative claims cannot be derived purely from descriptive claims just means that we have to premise at least one normative claim in whatever ethics we develop.
 
-However, the notion that morality cannot be objective sits poorly with some people who would like questions such as "How much money should I donate to charity each year?" to be rationally decidable without prior appeal to a value system. That these people exist is no problem in itself; likely the majority of people believe that morality is objective, but that we have yet to find its object. A problem arises when certain of these people opine on ethics and claim to have discovered a scientific morality without engaging in good faith with the literature. It is because such systems *agree* with the common belief that morality has to be objective, and because they often offer simple guidelines that many people now believe there is an undeniable truth about an ethics that centers around the self-interest of the individual (Rand, 1961), or the claim that all that humans can reasonably value is their well-being[^1] (Harris, 2010). 
+However, the notion that morality cannot be objective sits poorly with some people who would like questions such as "How much money should I donate to charity each year?" to be rationally decidable without prior appeal to a value system. That these people exist is no problem in itself; likely the majority of people believe that morality is objective, but that we have yet to find its object. A problem arises when certain of these people opine on ethics and claim to have discovered a scientific morality without engaging in good faith with the literature. It is because such systems *agree* with the common belief that morality has to be objective, and because they often offer simple guidelines that many people now believe there is an undeniable truth about an ethics that centers around the self-interest of the individual (Rand, 1961), or the claim that all that humans can reasonably value is their well-being (Harris, 2010). 
 
 So at least knowledge of the is-ought gap helps with spotting the demagogues, even if it bears little on the validity of an ethics.
 
@@ -48,21 +48,22 @@ The assumption in a teleological account is that the purpose (telos) can be disc
 
 Where does this leave us? If it leads anywhere, it would lead to a profound skepticism. I think this skepticism is more valuable than we give it credit for. Humanity has too often made morality subservient to its needs and used it to justify oppression, and perhaps it is our duty to constantly question whether our actions benefit those they impact. And if our answer to that question is that they do not, then maybe it is time to reevaluate the oughts we have constructed our morality from.
 
-## References and Further Reading
+## Further Reading
 
-Aristotle, *Nicomachean Ethics*    
-Spinoza, B., *Ethics*  
-Hume, D., *A Treatise of Human Nature*  
+These first three are historical texts that cover the three main forms of ethics: Aristotle's account focuses on cultivating virtue (virtue ethics); Kant's ethics revolve around duty (deontological ethics), and Mill is the classic text for consequentialist ethics. 
+
+Aristotle, *Nicomachean Ethics*      
 Kant, I., *Groundwork for the Metaphysics of Morals*  
-Mill, J. S., *Utilitarianism*  
+Mill, J. S., *Utilitarianism* 
+
+The is-ought gap is a question in meta-ethics, that is, the study of how we study ethics. This book gives a good overview of problems in contemporary metaethics:
+
+Miller, A. (1965), *An Introduction to Contemporary Metaethics* 
+
+## References
+
+Hume, D., *A Treatise of Human Nature* 
 Moore, G. E. (1903), *Principia Ethica*  
-Rand, A. (1961), *The Objectivist Ethics*  
-Miller, A. (1965), *An Introduction to Contemporary Metaethics*  
+Rand, A. (1961), *The Objectivist Ethics*   
 Deleuze, G. (1970), *Spinoza: Practical Philosophy*  
 Harris, S. (2010), *The Moral Landscape*  
-
-## Footnotes
-
-[^1]: Speaking of Harris, this is how he justifies not engaging with the literature:
-
-  "Many of my critics fault me for not engaging more directly with the academic literature on moral philosophy. There are two reasons why I haven't done this: First, while I have read a fair amount of this literature, I did not arrive at my position on the relationship between human values and the rest of human knowledge by reading the work of moral philosophers; I came to it by considering the logical implications of our making continued progress in the sciences of mind. Second, I am convinced that every appearance of terms like "metaethics," "deontology," "noncognitivism," "antirealism," "emotivism," etc., directly increases the amount of boredom in the universe."
