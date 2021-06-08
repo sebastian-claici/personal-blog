@@ -1,6 +1,6 @@
 ---
 title: "The Is-Ought Gap in Ethics"
-date: 2020-06-11T00:00:00-04:00
+date: 2021-06-08T00:00:00-04:00
 categories: ["Philosophy", "Ethics"]
 draft: false
 image:
@@ -39,6 +39,10 @@ So at least knowledge of the is-ought gap helps with spotting the demagogues, ev
 While I think the is-ought gap cannot be bridged, there are arguments for why it can, and we would expect this given that ethics has been around for at least as long as the written word, while Hume wrote of the gap in the 18th century.
 
 I have talked about the problem of how to decide whether a person is good or bad. This seems hard. What if we restrict our scope? Can we decide if a *knife* is good or bad? Well, yes. We usually call a knife good if it is able to quickly cut through whatever it is we want to cut, and bad if we have to add elbow grease to the process. A knife is terrible if it doesn't do its job at all. A spoon is a terrible knife. In other words, a knife is *good* if it effectively fulfills its purpose to cut objects. To do this, a knife must at the very least be sharp, sturdy, and well-balanced. I can apply a similar argument to living things as well. The purpose of a tick is to latch onto a host for blood. To do this effectively, it must be able to locate a blade of grass near a well trafficked area, climb onto the blade, drop at the right moment to fall on the host, and find a spot to latch on from which it won't be removed. The better it does these things, the better it fulfills its purpose.
+
+<style type="text/css" rel="stylesheet">
+figure > img { height: 400px; }
+</style>
 
 <figure>
 <img src="/ox-hugo/tick.jpg"/>
