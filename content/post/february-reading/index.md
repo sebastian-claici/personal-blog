@@ -17,7 +17,7 @@ Instead, and as a nod to February being Black History Month, I will recommend tw
 
 >In a way, her strangeness, her naiveté, her craving for the other half of her equation was the consequence of an idle imagination. Had she paints, or clay, or knew the discipline of the dance, or strings, had she anything to engage her tremendous curiosity and her gift for metaphor, she might have exchanged the restlessness and preoccupation with whim for an activity that provided her with all she yearned for. And like an artist with no art form, she became dangerous.
 
-And from across the ocean, we have David Diop's *At Night All Blood is Black* which, beyond its phenomenal title, has a hypnotic ritualistic quality to it as it explores the dark past of France's colonial empire on the brink of World War I. An intense and harrowing descent into the heart of darkness within the heart of war.
+And from across the ocean, we have David Diop's *At Night All Blood Is Black* which, beyond its phenomenal title, has a hypnotic ritualistic quality to it as it explores the dark past of France's colonial empire on the brink of World War I. An intense and harrowing descent into the heart of darkness within the heart of war.
 
 Some other stuff I read last month that I would *not* recommend:
 - Most disappointing: Colson Whitehead, *The Underground Railroad*
