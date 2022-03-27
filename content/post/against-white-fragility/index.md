@@ -6,43 +6,43 @@ draft: false
 image:
   placement: 1
   focal_point: "Center"
-  caption: "Michel Basquiat, Untitled, 1982"
+  caption: "Michel Basquiat, *Untitled*, 1982"
 ---
 
 While I am clearly not qualified to speak on race, neither is Robin DiAngelo. I wrote this after reading her book because I think that of all the takes on how to alleviate racism, the one that centers around "shaming white people for being white", and refuses systemic reform is the one least likely to accomplish anything. If anything, this approach turns real problems into social capital for progressive well-off white people that can be used to virtue signal allyship. <!--more-->I go into detail on this, but you don't have to read that. Read other perspectives from people significantly more qualified than me or DiAngelo.
 
 **Books:**
 
-- *Karen E. Fields and Barbara J. Fields*, Racecraft: The Soul of Inequality in American Life
-- *Frantz Fanon*, Black Skin, White Masks
-- *Frantz Fanon,* The Wretched of the Earth
-- *Alex Haley and Malcolm X*, The Autobiography of Malcolm X
-- *Edward Said*, Orientalism
-- *James Baldwin*, The Fire Next Time
-- *Achille Mbembe*, On the Postcolony
-- *Michelle Alexander*, The New Jim Crow
-- *Sara Ahmed*, On Being Included: Racism and Diversity in Institutional Life
-- *Paulo Freire*, Pedagogy of the Oppressed
+- Karen E. Fields and Barbara J. Fields, *Racecraft: The Soul of Inequality in American Life*
+- Frantz Fanon, *Black Skin, White Masks*
+- Frantz Fanon, T*he Wretched of the Earth*
+- Alex Haley and Malcolm X, *The Autobiography of Malcolm X*
+- Edward Said, *Orientalism*
+- James Baldwin, *The Fire Next Time*
+- Achille Mbembe, *On the Postcolony*
+- Michelle Alexander, *The New Jim Crow*
+- Sara Ahmed, *On Being Included: Racism and Diversity in Institutional Life*
+- Paulo Freire, *Pedagogy of the Oppressed*
 
 **Articles/Essays/Letters:**
 
-- *Toni Morrison*, Playing in the Dark
-- *Aimé Césaire,* Discourse on Colonialism
-- *Gayatri Chakravorty Spivak,* Can the Subaltern Speak
-- *Kimberle Crenshaw,* Demarginalizing the Intersection of Race and Sex
-- *Martin Luther King, Jr.,* Letter from Birmingham Jail
+- Toni Morrison, *Playing in the Dark*
+- Aimé Césaire, *Discourse on Colonialism*
+- Gayatri Chakravorty Spivak, *Can the Subaltern Speak*
+- Kimberle Crenshaw, D*emarginalizing the Intersection of Race and Sex*
+- Martin Luther King, Jr., *Letter from Birmingham Jail*
 
 ### Guide Quotes
 
 > What is crucial here is that unless we can manage to accept, establish some kind of dialog between those people whom I pretend have paid for the American dream and those other people who have not achieved it, we will be in terrible trouble. I want to say, at the end, the last, is that is that is what concerns me most. We are sitting in this room, and we are all, at least I’d like to think we are, relatively civilized, and we can talk to each other at least on certain levels so that we could walk out of here assuming that the measure of our enlightenment, or at least, our politeness, has some effect on the world. It may not.
 > 
-> —*James Baldwin*, The Baldwin-Buckley Debate
+> —James Baldwin, *The Baldwin-Buckley Debate*
 
 > Yes, the whites were as miserable as their black victims, I thought. If this country can’t find its way to a human path, if it can’t inform conduct with a deep sense of life, then all of us, black as well as white, are going down the same drain… I picked up a pencil and held it over a sheet of white paper, but my feelings stood in the way of my words. Well, I would wait, day and night, until I knew what to say. Humbly now, with no vaulting dream of achieving a vast unity, I wanted to try to build a bridge of words between me and that world outside, that world which was so distant and elusive that it seemed unreal.
 >
 > I would hurl words into this darkness and wait for an echo, and if an echo sounded, no matter how faintly, I would send other words to tell, to march, to fight, to create a sense of the hunger for life that gnaws in us all, to keep alive in our hearts a sense of the inexpressibly human.
 > 
-> —*Richard Wright*, Black Boy
+> —Richard Wright, *Black Boy*
 
 > I’ve known rivers:  
 > I’ve known rivers ancient as the world and older than the flow of human blood in human veins.
@@ -59,14 +59,14 @@ While I am clearly not qualified to speak on race, neither is Robin DiAngelo. I 
 > 
 > My soul has grown deep like the rivers.
 > 
-> —*Langston Hughes,* The Negro Speaks of Rivers
+> —Langston Hughes, *The Negro Speaks of Rivers*
 
 > What is a man anyhow? what am I? what are you?
 > 
 > All I mark as my own you shall offset it with your own,  
 > Else it were time lost listening to me.
 > 
-> —*Walt Whitman,* Song of Myself
+> —Walt Whitman, *Song of Myself*
 
 > You hate me don't you?  
 > You hate my people, your plan is to terminate my culture  
@@ -79,7 +79,7 @@ While I am clearly not qualified to speak on race, neither is Robin DiAngelo. I 
 > You sabotage my community, makin' a killin'  
 > You made me a killer, emancipation of a real nigga  
 > 
-> —*Kendrick Lamar,* The Blacker the Berry
+> —Kendrick Lamar, *The Blacker the Berry*
 
 ### Race, Racism, Racecraft
 
@@ -95,7 +95,7 @@ While I am clearly not qualified to speak on race, neither is Robin DiAngelo. I 
 
 > Nothing handed down from the past could keep race alive if we did not constantly reinvent and re-ritualize it to fit our own terrain. If race lives on today, it can do so only because we continue to create and re-create it in our social life, continue to verify it, and thus continue to need a social vocabulary that will allow us to make sense, not of what our ancestors did then, but of what we ourselves choose to do now. 
 > 
-> —*Karen E. Fields and Barbara J. Fields,* Racecraft: The Soul of Inequality in American Life
+> —Karen E. Fields and Barbara J. Fields, *Racecraft: The Soul of Inequality in American Life*
 
 Race is socially constructed. I mean by this that race is a demarcation in the territory of humanity of certain groups that is socially and culturally agreed upon, but which has no basis in material reality. Unlike other social constructions, such as money, nations, or borders, race is new. Unlike other social constructions, money again proves a good example, most people agree that a society which does not recognize race as a cultural factor at all would be preferable to the one we live in today. And yet, race and racism persists, almost like witchcraft, and we see it reinforced not only negatively, through actions that discriminate and hurt, but also, perversely, in statements of progress. To give an oft-quoted example, the view that the election of Barack Obama to the presidency indicates our move to a post-racial society in fact reinforces race by fore-fronting the race of the president as proof that race is no longer important.
 
@@ -113,7 +113,7 @@ In a very real sense, the *solution* to racism is to simply stop believing in ra
 > 
 > When a Negro burns himself the spot turns white. Long illnesses also turn the Negroes quite white; but a body that has become white through illness turns blacker in death than it ever was before.
 > 
-> —Observations on the Feeling of the Beautiful and Sublime, 57
+> —Immanuel Kant, *Observations on the Feeling of the Beautiful and Sublime, 57*
 
 Racism as such is not *essentially* different from other forms of discrimination such as homophobia, sexism, or xenophobia, but it persists stronger than these because it is more visible, and easier to disassociate from. To discriminate against someone of Lithuanian or Irish ethnicity requires a marker that they *are* of that ethnicity, while discriminating against an African slave requires one only to look at the color of their skin.
 
@@ -144,7 +144,7 @@ I sympathize with this statement, and I understand why it had to be said. The ty
 
 > A white man talking to a person of color behaves exactly like a grown-up with a kid, simpering, murmuring, fussing, and coddling.
 > 
-> —*Frantz Fanon*, Black Skins, White Masks
+> —Frantz Fanon, *Black Skins, White Masks*
 
 White fragility is a useful concept. It can help us react better when we are, rightly or wrongly, accused of racism, and it can help us contextualize our racism in terms of white privilege and white supremacy. But, as DiAngelo points out several times, racism is systemic. Should we look for solutions in large scale systemic change? Can we, as individuals, do anything to help ourselves be less racist? For DiAngelo, the answers to these questions are: "Please don't talk about class," and "Feel constant shame." I believe these answers are not only wrong, but actively harmful. Yet such answers are popular because they serve corporate interests incredibly well by both precluding talk of systemic reform, and by shifting the blame for racism onto the individual.
 
@@ -152,11 +152,11 @@ White fragility is a useful concept. It can help us react better when we are, ri
 
 > It's a class struggle Goddammit!
 > 
-> —*Fred Hampton,* Speech given at Northern Illinois University, 1969
+> —Fred Hampton, *Speech given at Northern Illinois University*, 1969
 
 > I imagine you already know that I am much more socialistic in my economic theory than capitalistic. And yet I am not so opposed to capitalism that I have failed to see its relative merits. It started out with a noble and high motive, viz, to block the trade monopolies of nobles, but like most human systems, it falls victim to the very thing it was revolting against. So today capitalism has outlived its usefulness. It has brought about a system that takes necessities from the masses to give luxuries to the classes.
 > 
-> —*Martin Luther King,* Letter to Coretta Scott, 1952
+> —Martin Luther King, *Letter to Coretta Scott*, 1952
 
 > The body of my text possess extra strength  
 > Power-lift the powerless up out of this towering inferno  
@@ -171,7 +171,7 @@ White fragility is a useful concept. It can help us react better when we are, ri
 > Killing fields need blood to graze the cash cow  
 > It's a numbers game, but shit don't add up somehow  
 > 
-> —*Yasiin Bey*, Mathematics
+> —Yasiin Bey, *Mathematics*
 
 Class is the boogeyman in Robin DiAngelo's mental closet. While she couches her rhetoric on class in her insistence that racism cannot be solved by *only* focusing on class—a point I agree with—, her refusal to acknowledge that class pays an important role makes me suspect that she is against class reform in general. This view likely agrees with that of her audience of upper class whites for whom talk of class consciousness is anathema. 
 
@@ -193,7 +193,7 @@ As Michelle Alexander writes:
 
 > The future of our democracy may depend on other racial and ethnic groups learning to see that our fates are, in fact, inescapably intertwined. If we, as a nation, are ever to free ourselves from the logic and politics of white supremacy, we must not allow ourselves to imagine that progress is made if the system causes greater harm to "them" than "us". Nor can we be seduced into believing that ending racially hostile rhetoric is the same thing as ending systems of racial and social control, or that simply electing a different president or a different political party will necessarily free us from the history and cycle of creating caste-like systems in America. More is required of us in these times.
 > 
-> —The New Jim Crow, pg. xliv
+> —*The New Jim Crow*, pg. xliv
 
 It is not just *class*. No amount of economic reform would uplift the millions of black men that must live life under the shadow of a criminal record for a crime that is no longer a crime. No amount of wealth redistribution would change the fact that some 6,000 people will slave away for life on a [plantation in Louisiana](https://www.youtube.com/watch?v=7ABpWhY5Xzk). 
 
@@ -203,11 +203,11 @@ The Gordian knot of race and class does not untangle neatly. And while I can sit
 
 > It would seem that to continue to see race of people, any race of people as one single personality is an ignorance of gothic proportions, an ignorance so vast, so public, and perception so blind and so blunted, imagination so bleak that no nuance, no subtlety, no difference among them can be ascertained.
 > 
-> —*Toni Morrison,* A Humanist View
+> —Toni Morrison, *A Humanist View*
 
 > A paradox is clear. The shameful white subject expresses shame about its racism, and in expressing its shame, it 'shows' that it is not racist: if we are shamed, we mean well. The white subject that is shamed by whiteness is also a white subject that is proud *about* its shame. The very claim to feel bad (about this or that) also involves a self-perception of 'being good'. Anti-racism may even provide the conditions for a new discourse of white pride.
 > 
-> —*Sara Ahmed,* The Non-Performativity of Anti-Racism
+> —Sara Ahmed, *The Non-Performativity of Anti-Racism*
 
 The operative emotion of fragility is shame, and shame is unproductive. As Sara Ahmed points out in her essay "The Non-Performativity of Anti-Racism", admitting shame about past or present actions signals to others that we have come a long way, but the statement also serves to absolve the speaker of further action. Merely saying something leads one to believe they have [accomplished part of it](https://s18798.pcdn.co/motivationlab/wp-content/uploads/sites/6235/2019/02/gollwitzer-et-al-2009-when-intentions-go-public.pdf).
 
@@ -239,7 +239,7 @@ I will leave you with a story Dave Brubeck tells of his jazz career and his figh
 
 > The oppressor is solidary with the oppressed only when he stops regarding the oppressed as an abstract category and sees them as persons who have been unjustly dealt with, deprived of their voice, cheated in the sale of their labor—when he stops making pious, sentimental, and individualistic gestures and risks an act of love. True solidarity is found only in the plenitude of this act of love, in its existentiality, in its praxis. To affirm that men and women are persons and as persons should be free, and yet to do nothing tangible to make this affirmation a reality, is a farce.
 > 
-> —*Paulo Freire*, Pedagogy of the Oppressed
+> —Paulo Freire, *Pedagogy of the Oppressed*
 
 > For it is not true that the work of man is finished,  
 > That we have nothing more to do in the world,  
@@ -250,4 +250,4 @@ I will leave you with a story Dave Brubeck tells of his jazz career and his figh
 > And no race holds a monopoly of beauty, of intelligence, of strength, and  
 > There is a place for all at the rendezvous of victory.  
 > 
-> —*Aimé Césaire,* Return to my Native Land
+> —Aimé Césaire, *Return to my Native Land*

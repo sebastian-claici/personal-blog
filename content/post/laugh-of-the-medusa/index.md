@@ -4,9 +4,9 @@ date: 2022-03-16
 categories: ["Essay"]
 draft: false
 image:
-	placement: 1
-	focal_point: "Center"
-	caption: "Franz von Stuck, *Head of Medusa*"
+  placement: 1
+  focal_point: "Center"
+  caption: "Franz von Stuck, *Head of Medusa*"
 ---
 >Come, you spirits  
 That tend on mortal thoughts, unsex me here,  
