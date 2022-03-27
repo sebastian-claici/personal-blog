@@ -3,6 +3,7 @@ title: The Laugh of the Medusa
 date: 2022-03-16
 categories: ["Essay"]
 draft: false
+summary: "I, too, overflow; my desires have invented new desires, my body knows unheard-of songs."
 image:
   placement: 1
   focal_point: "Center"
