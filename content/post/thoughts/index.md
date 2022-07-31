@@ -1,6 +1,6 @@
 ---
 title: Thoughts on Being Asked for Birthday Wisdom
-date: 2022-03-16
+date: 2022-07-31
 categories: ["Essay"]
 draft: false
 image:
